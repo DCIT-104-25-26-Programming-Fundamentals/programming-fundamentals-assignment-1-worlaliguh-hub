@@ -46,6 +46,7 @@ def is_prime(number):
     return True
 
 
+
 number = int(input("Enter a number: "))
 
 if is_prime(number):
